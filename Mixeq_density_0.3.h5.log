@@ -1,0 +1,14 @@
+[14-07-2022 15:31:21.034795] HALMD (HAL’s MD package) 1.0.1
+[14-07-2022 15:31:21.034915] variant: +GPU +GPU_SINGLE_PRECISION +GPU_DOUBLE_SINGLE_PRECISION +FORCE_DSFUN
+[14-07-2022 15:31:21.034931] built with GNU 8.3.0 and NVCC 9.2 for Lua 5.1.4, Boost C++ 1.67.0, and HDF5 1.10.4
+[14-07-2022 15:31:21.034940] command line: halmd initial.lua -v
+[14-07-2022 15:31:21.034948] host name: merciful.imp.fu-berlin.de
+[14-07-2022 15:31:21.038105] edge lengths of simulation domain: 100 40 40
+[14-07-2022 15:31:21.044559] number of particles: 67334
+[14-07-2022 15:31:21.044590] number of particle species: 1
+[14-07-2022 15:31:21.054585] lattice: placing particles on fcc lattice: a = 2.10526
+[14-07-2022 15:31:21.054618] lattice: number of fcc unit cells: 47 19 19
+[14-07-2022 15:31:21.054629] [WARNING] lattice: lattice not fully occupied (67868 sites)
+[14-07-2022 15:31:21.093271] write to H5MD file: /srv/public/bottinelli/sample/testh5file/particle_box.h5
+[14-07-2022 15:31:21.093368] [100.0%] setting particle positions on lattice: 151.797 µs
+[14-07-2022 15:31:21.134693] HALMD exit
